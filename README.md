@@ -1,6 +1,9 @@
-🙂 I’m Syed Junaid, from Multan,Pakistan
-🔭 I’m currently working on whatsapp bot.
-🌱 I’m currently learning nodejs.
-👯 I’m looking to collaborate with no one.
-💬 Ask me about nothing.
-📫 How to reach me: soon.
+### Hi there 👋
+
+- 🙂 I’m Syed Junaid, From Multan,Pakistan.
+- ♑ Entry: 01Jan,2000, Capricorn🌝.
+- 🏢 Currently Studying at university of Wah💓.
+- 🔭 Working on whatsapp bot🤖.
+- 👯 I do not need to collaborate with Anyone😎.
+- 💬 You can ask me about; Cracking, Reporting, Gaming🤭.
+- 
